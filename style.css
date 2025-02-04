@@ -1,0 +1,9 @@
+.nav-link:hover {
+    color: darkgray !important;
+}
+.navbar-toggler:focus {
+    box-shadow: none !important;
+}
+.navbar-toggler {
+    border: none !important;
+}

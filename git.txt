@@ -1,0 +1,9 @@
+VSC terminál
+cd..	/visszalépés
+dir	/listalekérés
+cd választott_mappa	/mappába lépés
+git init
+https://github.com/ on csinálni kell egy új repository-t
+git remote add origin https://github.com/felhasználoneved/repository-neve.git
+
+
